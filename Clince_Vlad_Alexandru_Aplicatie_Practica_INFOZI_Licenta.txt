@@ -1,0 +1,12 @@
+Link : https://github.com/VladClince/Licenta
+
+Pentru testarea aplicației apicole este nevoie de instalarea Microsoft Visual Studio.
+ - Pentru dezvoltarea ei a fost folosita editia din 2013.
+ - Fisierul cu numele "Licenta" descarcat de pe GitHub se copiaza în partiția D astfel încât să fie sub următorul path: "D:\An 3\Licenta"
+ - În partiția D se crează un director cu numele de "An 3" iar în el se copiaza folderul "Licenta" de pe GitHub astfel încât path-ul să fie exact ca și mai sus.
+ - Menționez că este nevoie de aceasta pentru ca, codul sursă să găsească toate resursele de care are nevoie în rularea aplicației.
+
+Din acest moment se poate deschide Microsoft Visual Studio, să se importe proiectul, tot directorul cu toate dependintele și să fie rulată aplicația.
+ - Odată pornită se va putea testa și utiliza toate funcționalitățile
+ - Pentru testarea lor se va verifica pe rând fiecare funcționalitate în parte
+ - Tot aici se gasește și fișierul denumit "licenta.sql" unde este salvată baza de date care a fost creată cu ajutorul mediului de dezvoltare My SQL Workbench
